@@ -15,7 +15,6 @@ let package = Package(
         ),
     ],
     dependencies: [
-        
     ],
     targets: [
         .target(name: "UIForgeKit"),
